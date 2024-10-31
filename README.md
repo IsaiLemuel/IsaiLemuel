@@ -2,6 +2,7 @@
 <h3 align="center">Civil Computer Engineer | Full-Stack Developer</h3>
 
 <p align="center">
+  ![tarjeta_virtual (1)](https://github.com/user-attachments/assets/4a7e013d-bfdc-4d2e-b0b0-6fd35027d7a4)
   <a href="https://linkedin.com/in/isai-morales-lopez-37ab03255" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -13,7 +14,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2300A7E1&size=25&center=true&vCenter=true&width=700&height=50&lines=Experienced+Full-Stack+Developer;Data+Integration+and+Analysis+Expert;Adaptable+to+New+Technologies;Passionate+about+Innovative+Tech+Solutions;Open+to+Learning+and+Professional+Growth"></a>
 </p>
-![tarjeta_virtual (1)](https://github.com/user-attachments/assets/4a7e013d-bfdc-4d2e-b0b0-6fd35027d7a4)
+
 
 ---
 
