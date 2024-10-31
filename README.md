@@ -73,7 +73,7 @@ I am a **Civil Computer Engineer** from the **Catholic University of Maule** wit
 
 ### 📫 How to Reach Me
 
-- **Phone**: (+569) 92506331
+
 - **Email**: [isai.lemuel.m117@gmail.com](mailto:isai.lemuel.m117@gmail.com)
 - **LinkedIn**: [linkedin.com/in/isai-morales-lopez-37ab03255](https://linkedin.com/in/isai-morales-lopez-37ab03255)
 
