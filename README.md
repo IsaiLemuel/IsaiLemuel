@@ -1,7 +1,5 @@
-<p align="center">
-  <img src=tarjeta_virtual (1).png
- alt="Tarjeta Virtual de Isai Lemuel Morales Lopez" width="400"/>
-</p>
+![tarjeta_virtual (1)](https://github.com/user-attachments/assets/d057e3e3-9d16-451f-9430-1932ce6ba519)
+
 
 <h1 align="center">Hi, I'm Isai Lemuel Morales Lopez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="cente
