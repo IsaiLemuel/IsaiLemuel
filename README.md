@@ -1,8 +1,12 @@
-<h1 align="center">Hi, I'm Isai Lemuel Morales Lopez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">Civil Computer Engineer | Full-Stack Developer</h3>
-
 <p align="center">
-  ![tarjeta_virtual (1)](https://github.com/user-attachments/assets/4a7e013d-bfdc-4d2e-b0b0-6fd35027d7a4)
+  <img src=![tarjeta_virtual (1)](https://github.com/user-attachments/assets/85186a5e-b15b-4a81-8021-0432f67196d8)
+ alt="Tarjeta Virtual de Isai Lemuel Morales Lopez" width="400"/>
+</p>
+
+<h1 align="center">Hi, I'm Isai Lemuel Morales Lopez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h3 align="cente
+<p align="center">
+ 
   <a href="https://linkedin.com/in/isai-morales-lopez-37ab03255" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
