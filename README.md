@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=![tarjeta_virtual (1)](https://github.com/user-attachments/assets/85186a5e-b15b-4a81-8021-0432f67196d8)
+  <img src=tarjeta_virtual (1).png
  alt="Tarjeta Virtual de Isai Lemuel Morales Lopez" width="400"/>
 </p>
 
