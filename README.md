@@ -1,8 +1,8 @@
-<h1 align="center">Hola 👋, soy Isai Lemuel Morales Lopez</h1>
-<h3 align="center">Ingeniero Civil Informático y Desarrollador Full-Stack</h3>
+<h1 align="center">Hi, I'm Isai Lemuel Morales Lopez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h3 align="center">Civil Computer Engineer | Full-Stack Developer</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/isai-morales-lopez-37ab03255" target="_blank">
+  <a href="https://linkedin.com/in/isai-morales-lopez-37ab03255" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:isai.lemuel.m117@gmail.com">
@@ -10,67 +10,97 @@
   </a>
 </p>
 
----
-
-### 👨‍💻 Sobre mí
-
-Soy Ingeniero Civil Informático de la **Universidad Católica del Maule**, apasionado por la tecnología y en constante búsqueda de innovación y desarrollo profesional. Me destaco en la creación de aplicaciones internas y externas, con habilidades en el desarrollo **Full-Stack** y experiencia en herramientas de análisis de datos como **Pentaho** y **Power BI**. Estoy comprometido con la mejora continua y la adaptación en un entorno de rápida evolución tecnológica.
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2300A7E1&size=25&center=true&vCenter=true&width=700&height=50&lines=Experienced+Full-Stack+Developer;Data+Integration+and+Analysis+Expert;Adaptable+to+New+Technologies;Passionate+about+Innovative+Tech+Solutions;Open+to+Learning+and+Professional+Growth"></a>
+</p>
 
 ---
 
-### 🚀 Experiencia Profesional
+### 👨‍💻 About Me
 
-- **[Houdini Grupo Firma](https://grupofirma.cl)** - *Desarrollador Full-Stack*  
-  *Junio 2024 - Presente*  
-  Desarrollo de aplicaciones en **Angular** y **Node.js** adaptadas a las necesidades de la empresa, con foco en el análisis de datos financieros e informes empresariales.
-
-- **Isapre Consalud** - *Practicante*  
-  *Enero 2023 - Mayo 2023*  
-  Migración de la plataforma **Pentaho Data Integration** de la versión 5.4 a 9.0, optimizando ETLs críticos para la empresa.
-
-- **Universidad Autónoma de Chile** - *Practicante*  
-  *Septiembre 2022 - Noviembre 2022*  
-  Ayudante de investigación en el proyecto OKFRUT, con desarrollo de algoritmos de IA en **Python** para el análisis de imágenes en la industria agrícola.
+I am a **Civil Computer Engineer** from the **Catholic University of Maule** with a background in full-stack development and data integration. My professional journey has equipped me with a logical and adaptable approach to technology. I am committed to staying on the cutting edge of technological innovation and contributing meaningfully to projects in the tech space.
 
 ---
 
-### 🛠️ Habilidades Técnicas
+### 🚀 Professional Experience
 
-- **Lenguajes de Programación**: Python, JavaScript, SQL
-- **Frameworks y Librerías**: Angular, Node.js, Express
-- **Herramientas de Integración y Análisis**: Pentaho Data Integration, Power BI
-- **Sistemas Operativos**: Linux (Ubuntu Server, Debian, Manjaro)
+- **[Houdini Grupo Firma](https://grupofirma.cl)** - *Full-Stack Developer*  
+  *June 2024 - Present*  
+  Building and maintaining applications with **Angular** and **Node.js** tailored to the company's operational needs, and providing impactful insights through **Power BI** and **Pentaho** data integration for financial analysis.
 
----
+- **Isapre Consalud** - *Intern*  
+  *January 2023 - May 2023*  
+  Successfully migrated **Pentaho Data Integration** platform from version 5.4 to 9.0, enhancing critical ETLs for daily business operations.
 
-### 🧠 Competencias Profesionales
-
-- Desarrollo y Análisis de Software
-- Integración y Transformación de Datos
-- Modelos de Inteligencia Artificial (LLM)
-- Bases de Datos y Manipulación de Datos
+- **Autonomous University of Chile** - *Research Assistant*  
+  *September 2022 - November 2022*  
+  Supported a research project aimed at cherry caliber recognition, using **Python** and **AI algorithms** to address measurement challenges through image analysis.
 
 ---
 
-### 🌱 Formación Académica
+### 🛠️ Technical Skills
 
-- **Universidad Católica del Maule** - Ingeniería Civil Informática  
-  *2018 - Enero 2024*
+- **Programming Languages**: Python, JavaScript, SQL
+- **Frameworks & Libraries**: Angular, Node.js, Express
+- **Data Integration & Analysis**: Pentaho Data Integration, Power BI
+- **Operating Systems**: Linux (Ubuntu Server, Debian, Manjaro)
 
-- **Certificación Oracle Alura**  
-  *Ago 2022 - Dic 2022*  
+---
+
+### 🧠 Professional Competencies
+
+- Software Development & Analysis
+- Data Integration and Transformation
+- Artificial Intelligence Models (LLM)
+- Database Management and Data Handling
+
+---
+
+### 🌱 Academic Background
+
+- **Catholic University of Maule** - Civil Computer Engineering  
+  *2018 - January 2024*
+
+- **Oracle Certification - Alura**  
+  *August 2022 - December 2022*  
   Front-end, Back-end, HTML5, CSS, SQL
 
 ---
 
-### 📫 Contacto
+### 📫 How to Reach Me
 
-- **Teléfono**: (+569) 92506331
+- **Phone**: (+569) 92506331
 - **Email**: [isai.lemuel.m117@gmail.com](mailto:isai.lemuel.m117@gmail.com)
 - **LinkedIn**: [linkedin.com/in/isai-morales-lopez-37ab03255](https://linkedin.com/in/isai-morales-lopez-37ab03255)
 
 ---
 
+### 📊 GitHub Stats
+
+<details>
+  <summary><b>🔥 Streak Stats</b></summary>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=isai-morales-lopez&theme=tokyonight_duo" alt="isai-morales-lopez's streak" />
+  </p>
+</details>
+
+<details>
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=isai-morales-lopez&show_icons=true&theme=tokyonight" alt="isai-morales-lopez's GitHub stats" height="180px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isai-morales-lopez&langs_count=10&theme=tokyonight" alt="isai-morales-lopez's languages" height="180px" />
+  </p>
+</details>
+
+<details>
+  <summary><b>🏆 GitHub Trophies</b></summary>
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=isai-morales-lopez&theme=tokyonight&no-bg=true&column=4" alt="GitHub Trophies" />
+  </p>
+</details>
+
+---
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=isai-morales-lopez&label=Profile%20views&color=0047AB&style=plastic" alt="isai-morales-lopez" />
+  <img src="https://komarev.com/ghpvc/?username=isai-morales-lopez&label=Profile%20views&color=0047AB&style=plastic" alt="Profile views" />
 </p>
